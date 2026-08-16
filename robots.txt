@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-h0mc8o.absolutebeachview.co.nz/sitemap.xml
